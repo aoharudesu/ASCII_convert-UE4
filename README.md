@@ -1,5 +1,5 @@
 # ASCII_convert-UE4
-
+Plug-in for string to ascii conversion
 ## 有効化方法
 Pluginsフォルダーを作成し、フォルダー内にデータを入れてください
 ## 使い方

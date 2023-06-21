@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ASCII_convert-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\ASCII\Intermediate\Build\Win64\ASCIIEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\ASCII\Plugins\ASCII_convert\Intermediate\Build\Win64\UE4Editor\Development\ASCII_convert\Module.ASCII_convert.cpp.obj"
+"E:\ASCII\Plugins\ASCII_convert\Intermediate\Build\Win64\UE4Editor\Development\ASCII_convert\Module.ASCII_convert.gen.cpp.obj"
+"E:\ASCII\Plugins\ASCII_convert\Intermediate\Build\Win64\UE4Editor\Development\ASCII_convert\Default.rc2.res"
+/OUT:"E:\ASCII\Plugins\ASCII_convert\Intermediate\Build\Win64\UE4Editor\Development\ASCII_convert\UE4Editor-ASCII_convert-0006.lib"

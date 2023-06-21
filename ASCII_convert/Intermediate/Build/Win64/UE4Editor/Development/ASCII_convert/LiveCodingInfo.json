@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ASCII_convert.cpp.obj": [
+			"ASCII_convert.cpp.obj",
+			"ASCII_convertBPLibrary.cpp.obj"
+		],
+		"Module.ASCII_convert.gen.cpp.obj": [
+			"ASCII_convert.init.gen.cpp.obj",
+			"ASCII_convertBPLibrary.gen.cpp.obj"
+		]
+	}
+}
